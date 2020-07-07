@@ -1,0 +1,16 @@
+Package: BRP
+Type: Package
+Title: Building R Package
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: Neeba E A <neebaea@rajagiritech.edu.in>
+Description: This is done as the wk 4 projet of Building R Package course
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    knitr,
+    rmarkdown,
+    testthat
+VignetteBuilder: knitr
+RoxygenNote: 7.1.1
